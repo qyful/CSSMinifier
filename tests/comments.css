@@ -1,0 +1,17 @@
+/* Header styles */
+h1 {
+    font-size: 24px;
+    color: #555;
+}
+
+/* Paragraph styles */
+p {
+    margin-bottom: 15px; /* Add some space below paragraphs */
+    color: #777;
+}
+
+/* Link styles */
+a {
+    text-decoration: none; /* Remove underlines */
+    color: #0066cc;
+}

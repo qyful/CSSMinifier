@@ -1,0 +1,15 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background-color: #f8f8f8;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
+}

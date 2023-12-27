@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.gradient {
+    background: linear-gradient(to right, #ff8c00, #ffcc00);
+    -webkit-background-clip: text;
+    color: transparent;
+}
