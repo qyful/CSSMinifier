@@ -1,0 +1,2 @@
+class Minifier():
+    pass
