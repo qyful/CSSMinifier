@@ -1,4 +1,4 @@
-from _parser import Parser
+from ._parser import Parser
 
 class InvalidScriptError(Exception):
     def __init__(self, message, errors):            
