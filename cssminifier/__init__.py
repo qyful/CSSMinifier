@@ -1,2 +1,2 @@
-from .minifier import Minifier
-from .parser import Parser
+from cssminifier.minifier import Minifier
+from cssminifier._parser import Parser

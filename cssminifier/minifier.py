@@ -1,4 +1,4 @@
-from .parser import Parser
+from _parser import Parser
 
 class InvalidScriptError(Exception):
     def __init__(self, message, errors):            
@@ -15,7 +15,7 @@ class Minifier():
         if parsed:
             self.parsed_script = script
         else:
-            raise InvalidScriptError("Error: The provided script could not be parsed.")
+            raise InvalidScriptError("Error: The provided script could not be parsed.", "InvalidScriptError")
 
     def __call__(self):
         return self._minify(self.parsed_script)

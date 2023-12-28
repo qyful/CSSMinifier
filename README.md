@@ -9,8 +9,8 @@
                                                                               
 ------------------------------------------------------------------------------
 
-               A Python-based open source minification tool for
-                        Cascading Style Sheets (CSS)
+                   An open source Python minification package
+                       for Cascading Style Sheets (CSS).
 </pre>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
