@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.2' 
+VERSION = '0.0.3' 
 DESCRIPTION = 'Minification tool for Cascading Style Sheets (CSS)'
 LONG_DESCRIPTION = 'An open source Python minification package for Cascading Style Sheets (CSS).'
 
